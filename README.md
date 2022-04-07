@@ -1,10 +1,13 @@
 # login-form
-<p>Formulário de Login basico criado por mim no Illustrator e ganhou vida com HTML e CSS.<p>
+Esse foi meu primeiro formulario de login criado para praticar o que tenho aprendido no curso de **HTML5** e **CSS3** do **Curso em Vídeo**
 
-<p> Resultado final <p>
 
- ![final](https://user-images.githubusercontent.com/81190663/113369626-213c8c80-9338-11eb-8b08-93de9fa2f731.png)
+##
+Resultado final
 
-<h1> :rocket: Starting </h1>
+![final](https://user-images.githubusercontent.com/81190663/113369626-213c8c80-9338-11eb-8b08-93de9fa2f731.png)
+
+##
+:rocket:
 
 <p>Criado por William Santana :vulcan_salute::sunglasses:</p>
